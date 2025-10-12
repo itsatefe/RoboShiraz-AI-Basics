@@ -62,7 +62,7 @@ def _diagnostics(df: pd.DataFrame, name: str = "X") -> pd.DataFrame:
     desc = df.describe().T
     miss = df.isna().mean()
     skew = df.skew(numeric_only=True)
-    out = desc[['mean', 'std', 'min', 'max']].copy()
+    out = desc[['mean', 'std', 'min', 'max']]
     out['missing_frac'] = miss
     out['skew'] = skew
     out.index.name = f"{name}_feature"
