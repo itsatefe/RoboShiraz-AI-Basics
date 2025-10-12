@@ -1,6 +1,6 @@
 # RoboShiraz‑AI‑Basics
 
-**Teaching AI & ML fundamentals to beginners, students, and developers**
+**AI & ML fundamentals for beginners, students, and developers**
 
 ---
 
@@ -27,7 +27,7 @@ This project leverages standard AI/ML tools and libraries in Python. You will fi
 
 ---
 
-## 🧑‍🎓 Who Is This For?
+## 👨‍🎓👩‍🎓 Who Is This For?
 
 - Absolute beginners taking their first steps in AI  
 - Students learning AI/ML in courses or self‑study  
